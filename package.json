@@ -1,0 +1,14 @@
+{
+    "name": "27bslash6-module",
+    "author": "Frank Seeger <frnksgr@gmail.com>",
+    "description": "just a dump module used for infrastructure tests",
+    "version": "0.0.1",
+    "main": "main.js",
+    "engines": {
+        "node" : "*"
+    },
+    "dependencies": {},
+    "repository: {
+        "url": "https://github.com/frnksgr/27bslash6-module"
+    }
+}
