@@ -8,7 +8,7 @@
         "node" : "*"
     },
     "dependencies": {},
-    "repository: {
+    "repository": {
         "url": "https://github.com/frnksgr/27bslash6-module"
     }
 }
