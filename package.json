@@ -2,7 +2,7 @@
     "name": "27bslash6-module",
     "author": "Frank Seeger <frnksgr@gmail.com>",
     "description": "just a dump module used for infrastructure tests",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "main.js",
     "engines": {
         "node" : "*"
